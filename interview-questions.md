@@ -20,7 +20,7 @@ Researched answer:
 
 3. Name three rails generator commands. What is created by each?
 
-Your answer:
+Your answer: rails g model, rails g migration and rails g resource. 
 
 Researched answer:
 
